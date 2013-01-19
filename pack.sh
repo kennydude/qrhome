@@ -1,0 +1,1 @@
+zip extension.zip manifest.json *.js images/* *.html
